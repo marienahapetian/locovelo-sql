@@ -1,0 +1,6 @@
+id,brand,type,size,hourly_rate,state,available
+1,Samsung,electrical,130x60,14.58,used,yes
+2,Samsung,electrical,130x60,97.4,new,yes
+3,Huawei,electrical,120x50,22.42,used,no
+4,Honor,city,130x60,43.94,used,no
+5,Motorola,city,120x50,43.3,good,no
